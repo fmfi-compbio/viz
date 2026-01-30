@@ -1,1 +1,1 @@
-See https://bbrejova.github.io/viz/
+See https://fmfi-compbio.github.io/viz/
