@@ -2,6 +2,13 @@
 title: Skúška
 ---
 
+{% if true %}
+Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
+{% endif %}
+
+{% if false %}
+* TOC
+{:toc}
 
 ## Ústna skúška
 
@@ -177,3 +184,5 @@ title: Skúška
 * Interactivity, which aspects of a plot can be interactive
 * Dashboard (what it is)
 * Other types of graphs: waterfall chart, funnel chart, Gannt chart, candlestick chart
+
+{% endif %}

@@ -2,12 +2,13 @@
 title: Projekty
 ---
 
-* TOC
-{:toc}
-
-{% if false %}
+{% if true %}
 Pokyny k projektom upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
 {% endif %}
+
+{% if false %}
+* TOC
+{:toc}
 
 Ak niektoré z týchto pokynov predstavujú pre váš projekt problém, konzultujte možné riešenia s vyučujúcimi.
 
@@ -171,3 +172,5 @@ Podľa [pravidiel predmetu](./Rules.html) v súvislosti s projektom získate až
 * Finálna prezentácia je 8%.
 * Finálne hodnotenie odovzdaného projektu je 20%.
 * Individuálna ústna skúška súvisiaca s projektom je 15%, treba získať aspoň polovicu bodov.
+
+{% endif %}
