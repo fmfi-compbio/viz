@@ -26,8 +26,9 @@ Práca s tabuľkovými dátami a ich predspracovanie, typy dát (spojité, diskr
 ## Priebeh semestra
 
 * Prednáška 2h do týždňa v stredu
-* Po každej prednáške krátka domáca úloha + online kvíz na základné pojmy do pondelka večera
-* Cvičenia 2h do týždňa v utorok: práca v skupinách na úlohách s pomocou cvičiacich
+* Po každej prednáške krátky online kvíz a domáca úloha
+* Kvíz do štvrtka večera, úloha do ďalšieho utorka večera
+* Cvičenia 2h do týždňa v piatok: práca v skupinách na úlohách s pomocou cvičiacich
 * Koncom semestra práca na skupinovom projekte, písomná verzia projektu sa odovzdáva začiatkom skúškového
 * Cez skúškové test z učiva a ústna skúška týkajúca sa najmä projektu
 
@@ -56,12 +57,9 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 ## Domáce úlohy a kvízy
 
 * Budú zverejnené po prednáške v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421).
-* Odovzdajte do ďalšieho pondelka 22:00.
+* Kvíz obsahuje jednoduché otázky na základné porozumenie učiva, odovzdajte do štvrtka 22:00.
 * Domáca úloha je notebook s niekoľkými jednoduchými programátorskými úlohami na zorientovanie sa v novom učive.
 * Vypracujte samostatne, bez pomoci umelej inteligencie. 
-* Požadované časti vašich odpovedí z úlohy skopírujte z notebooku do príslušných kvízových otázok.
-* Odovzdajte aj celý vypracovaný notebook, budeme námatkovo kontrolovať, či sedí s vašimi odpoveďami. Rozdiely budeme považovať za pokus o podvádzanie pravidiel predmetu!
-* Kvíz obsahuje aj ďalšie jednoduché otázky na základné porozumenie učiva, tie môžete odpovedať aj ak neodovzdáte notebook.
 
 ## Skupinové zadania
 

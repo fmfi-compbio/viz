@@ -36,11 +36,11 @@ Prednáška 6 [prezentácia](./pdf/L06a_Maps_etc.pdf)  **·** {% include noteboo
 Prednáška 7 [prezentácia](./pdf/L07a_More_statistics.pdf) **·** {% include notebook.html file='L07_More_statistics' %} **·** [oznamy](./L07-notes.md)
 {% endif %}
 
-**Týždeň 6.-12.4.** Fázy projektu, ľudské vizuálne vnímanie, farby, formáty**<br>{% if false %}
+**Týždeň 6.-12.4. Fázy projektu, ľudské vizuálne vnímanie, farby, formáty**<br>{% if false %}
 Prednáška 8 [prezentácia](./pdf/L08_Perception_colors.pdf) **·** [oznamy](./L08-notes.md)
 {% endif %}
 
-**Týždeň 13.-19.4.<br>{% if true %}
+**Týždeň 13.-19.4.**<br>{% if true %}
 V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
 {% endif %}
 
