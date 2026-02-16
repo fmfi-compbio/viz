@@ -9,7 +9,7 @@ Projekt:
 
 Skupiny na projekt:
 
-* Skupiny si zostavíte sami, majú mať 4-5 členov.
+* Skupiny si zostavíte sami, majú mať 3-4 členov.
 * Termín na zostavenie skupín je pondelok 24.3.
 
 Témy:

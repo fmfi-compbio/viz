@@ -2,6 +2,8 @@
 title: Kontakt
 ---
 
+Predmet vyučujeme na Fakulte matematiky, fyziky a informatiky Univerzity Komenského v Bratislave. Je určený primárne pre študentov prvého ročníka Dátovej vedy a Bioinformatiky.
+
 ## Vyučujúci
 
 Prednáša
@@ -22,9 +24,8 @@ Cvičia
 
 * **Počas cvičení** zdvihnite ruku, niekto sa vám bude venovať, len čo to bude možné.
 * **Mimo cvičení píšte emailom** príslušným vyučujúcim nasledovne:
-  * BB: prednášky, hodnotenie finálnych projektov, skúška,
-  * ZČ: neúčasť na cvičeniach, posun termínu odovzdania úloh,
-  * MH, BZ: otázky k domácim úlohám a kvízom,
+  * BB: prednášky, hodnotenie finálnych projektov, skúška, otázky k domácim úlohám a kvízom,
+  * BZ: neúčasť na cvičeniach, posun termínu odovzdania úloh,
   * príslušní opravujúci: hodnotenie skupinových a domácich úloh
 
 ### Správy od vyučujúcich

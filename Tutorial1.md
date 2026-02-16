@@ -9,27 +9,26 @@ title: Cvičenie 1
   * Z ponúkaných súborov si môžete otvoriť Welcome to Colaboratory a zbežne si ho pozrieť.
   * Otvorte si [nastavenia](https://drive.google.com/drive/settings) na vašom Google drive a v záložke Manage apps si pridajte aplikáciu Google Colaboratory. Umožní vám jednoduché otváranie a odovzdávanie zadaní.
 * Prihláste sa do predmetu v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421).
-* Cvičenia budú v utorok o 14:50 v miestnosti I-H6.
-* Najneskôr do budúceho pondelka 22:00 odovzdajte domácu úlohu a kvíz k prvej prednáške.
+* Cvičenia budú v piatok o 8:10 v miestnosti I-H6.
+* Najneskôr do budúceho utorka 22:00 odovzdajte domácu úlohu a kvíz k prvej prednáške.
 
 ## Cvičenie 1
 
 * Riešite prvú domácu úlohu, zadanie je v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421).
-* Nevyriešené časti úlohy môžete dokončiť neskôr a odovzdať do ďalšieho pondelka 22:00.
+* Nevyriešené časti úlohy môžete dokončiť neskôr a odovzdať do ďalšieho utorka 22:00.
 * Ak máte otázky, pýtajte sa, radi poradíme a pomôžeme.
 
 ## Zadania a odovzdávanie
 
 * Na stránke príslušnej úlohy je linka na súbor so zadaním.
-* Po kliknutí sa vám súbor otvorí v Google drive, zvoľte otvorenie v Google Colaboratory.
+* Po kliknutí sa vám súbor otvorí v Google Colaboratory.
 * Máte ho zdieľaný iba na čítanie, preto si z neho spravte kópiu na svoj Google Drive (tlačidlom `Copy to Drive` alebo `Menu->File->Save a copy in Drive`). Túto kópiu potom môžete editovať.
 * Nezabudnite vypnúť AI pomocníkov `Menu->Tools->Settings->AI Assistance` vypnite všetky položky.
 * Keď ste hotoví, stiahnite súbor vo formáte ipynb (`Menu->File->Download->Download .ipynb`) a odovzdajte.
-* Požadované časti notebooku odovzdajte aj do kvízu. Ak je potrebné odovzdať obrázok, použite v Pythone príkaz na jeho uloženie do súboru. Súbor potom nájdete po kliknutí na ikonu priečinku na ľavej lište v Colabe.
 
 ## Pokyny k zadaniam
 * Zadania budú vo formáte Jupyter notebook.
-* Vaše riešenia píšte vždy len do priestoru medzi START a END značky, ktoré vyzerajú takto:
+* Vaše riešenia píšte vždy len do priestoru medzi START a END značky, ktoré vyzerajú nejako takto:
 <pre>
 ### TASK 1 START
  
@@ -37,7 +36,7 @@ title: Cvičenie 1
 </pre>
 (v textových bunkách sa <tt>###</tt> zobrazuje ako podnadpis).
 * **Zvyšné časti notebooku nemeňte.**
-* Spustite všetky bunky, niektoré vám môžu pomôcť odhaliť chybu vo vašom kóde.
+* Spustite všetky bunky. Niektoré vám môžu pomôcť odhaliť chybu vo vašom kóde.
 
 Poznámky
 * Ak chcete experimentovať s už hotovými časťami zadaní, spravte si ďalšiu kópiu súboru, ktorú môžete ľubovoľne meniť a ktorú neodovzdávate.

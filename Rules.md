@@ -26,11 +26,12 @@ Práca s tabuľkovými dátami a ich predspracovanie, typy dát (spojité, diskr
 ## Priebeh semestra
 
 * Prednáška 2h do týždňa v stredu
+  * Prednášky budú v angličtine, k dispozícii budú staršie slovenské nahrávky, pýtať sa a diskutovať počas prednášky môžete v slovenčine
 * Po každej prednáške krátky online kvíz a domáca úloha
-* Kvíz do štvrtka večera, úloha do ďalšieho utorka večera
-* Cvičenia 2h do týždňa v piatok: práca v skupinách na úlohách s pomocou cvičiacich
-* Koncom semestra práca na skupinovom projekte, písomná verzia projektu sa odovzdáva začiatkom skúškového
+* Cvičenia 2h do týždňa v piatok: práca v skupinách s pomocou cvičiacich
+* V druhej polovici semestra práca na skupinovom projekte
 * Cez skúškové test z učiva a ústna skúška týkajúca sa najmä projektu
+* Hoci máte veľa hodnotených aktivít, ich účelom nie je samotné hodnotenie, ale precvičenie učiva a potrebných zručností
 
 ## Hodnotenie
 
@@ -57,9 +58,13 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 ## Domáce úlohy a kvízy
 
 * Budú zverejnené po prednáške v systéme [Moodle](https://moodle.uniba.sk/course/view.php?id=3421).
-* Kvíz obsahuje jednoduché otázky na základné porozumenie učiva, odovzdajte do štvrtka 22:00.
+* Kvíz obsahuje jednoduché otázky na základné porozumenie učiva.
 * Domáca úloha je notebook s niekoľkými jednoduchými programátorskými úlohami na zorientovanie sa v novom učive.
 * Vypracujte samostatne, bez pomoci umelej inteligencie. 
+
+* **Prvý týždeň:** Kvíz zverejnený dnes, domáca úloha zverejnená na cvičeniach, obidve termín utorok 24.2.2026 22:00. Cieľom prvých cvičení je zorientovať sa v prostredí a začať riešiť domácu úlohu.
+* Ďalších 5 týždňov: kvíz aj domáca úloha zverejnené po prednáške, termín úlohy ďalší utorok 22:00, **termín kvízu už vo štvrtok 22:00** (aby ste prišli na cvičenie pripravení).
+* Zvyšok semestra: kvízy aj domáce úlohy termín ďalší utorok 22:00.
 
 ## Skupinové zadania
 
@@ -69,7 +74,7 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 ## Projekt
 
-* Projekty budete robiť v druhej polovici semestra v skupinách 4-5 študentov.
+* Projekty budete robiť v druhej polovici semestra v skupinách 3-4 študentov.
 * Môžete si vybrať z nami navrhovaných tém alebo navrhnúť vlastnú.
 * Odovzdáva sa písomný projekt plus prezentácia.
 * Budeme hodnotiť aj priebežný postup prác na projekte.
@@ -77,12 +82,12 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 ## Záverečný test
 
-* Koná sa cez skúškové obdobie
+* Koná sa cez skúškové obdobie.
 * Máte nárok na opravné termíny podľa študijného poriadku.
 
 ## Ústna skúška
 
-* Koná sa cez skúškové obdobie
+* Koná sa cez skúškové obdobie.
 * Máte nárok na opravné termíny podľa študijného poriadku.
 * Na ústnej skúške sa budeme rozprávať o vašom projekte a odovzdaných riešeniach domácich úloh a skupinových zadaní. Mali by ste ich vedieť detailne vysvetliť a vedieť v nich robiť zmeny.
 * Na základe ústnej skúšky môžeme zmeniť vaše body z projektu alebo zo semestra, pokiaľ zistíme, že váš prínos k práci skupiny nebol dostatočný alebo ste domáce úlohy neriešili vlastnými silami.
@@ -92,6 +97,7 @@ Pozor, body získavané za jednotlivé príklady nezodpovedajú priamo percentá
 
 * Účasť na prednáškach nekontrolujeme, je však odporúčaná.
 * Účasť na cvičeniach je povinná kvôli skupinovej práci. Ak sa nemôžete zúčastniť, dajte nám vedieť aspoň 24 hodín vopred alebo len čo je to možné. Príďte načas.
+  * Pri neospravedlnenej neúčasti stratíte body za skupinovú úlohu, prípadne za priebežnú prácu na projekte.
 * Všetky zadania je potrebné odovzdať do stanoveného termínu. Z technických píčin pri kvízoch nebudú možné žiadne neskoré odovzdania. V prípade ochorenia a podobne môžete požiadať o predĺženie termínu domácej úlohy.
 * Účasť je samozrejme potrebná aj na prezentácii projektu, na teste a ústnej skúške.
 
