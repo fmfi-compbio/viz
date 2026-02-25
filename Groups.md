@@ -65,5 +65,5 @@ V denníku uveďte
 
 ## Neúčasť
 
-* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte Z. Černekovú, pokiaľ možno vopred.
+* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte [B. Ziga](./Contact.html), pokiaľ možno vopred.
 * Určí vám spôsob, ako si túto aktivitu môžete nahradiť.

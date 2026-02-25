@@ -11,10 +11,9 @@ Prednáška 1a [pdf](./pdf/L01a_visualization_history.pdf) **·**
 Prednáška 1b {% include notebook.html file='L01b_Jupyter_Colab_Matplotlib' %} **·**
 [cvičenie 1](./Tutorial1.md)<br>
 
-**Týždeň 23.-1.3. Spracovanie dát v knižnici Pandas**<br>{% if false %}
-[Cvičenie 2](./Tutorial2.md)<br>{% endif %}{% if false %}
+**Týždeň 23.-1.3. Spracovanie dát v knižnici Pandas**<br>
+[Cvičenie 2](./Tutorial2.md) · [Práca v tíme](./Groups.md) <br>
 Prednáška 2 {% include notebook.html file='L02_Processing_Pandas' %}
-{% endif %}
 
 **Týždeň 2.-8.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>{% if false %}
 Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  {% include notebook.html file='L03_Plot_types' %}
