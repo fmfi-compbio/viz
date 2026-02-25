@@ -1,69 +1,68 @@
 ---
-title: Práca v tíme
+title: Work in Groups
 ---
 
-* Na prvých cvičeniach nebude skupinová práca.
-* Niekoľko ďalších týždňoch budete rozdelení do tímov vyučujúcimi a budete počas cvičení pracovať na menších príkladoch.
-* Neskôr sa rozdelíte do tímov sami a budete pracovať na projekte (počas cvičení aj mimo).
-* Tento dokument sa venuje práci v tímoch v prvej časti semestra, pri práci na skupinovom projekte budete mať voľnosť zorganizovať si prácu v rámci skupiny podľa vlastného uváženia.
+* There will be no group work in the first tutorial.
+* Over the next few weeks, you will be divided into groups by instructors and will work on smaller exercises during tutorial sessions.
+* Later, you will form teams on your own and work on a project (both during and outside of tutorial sessions).
+* This document covers group work in the first part of the semester; when working on the group project, you will have freedom to organize your work within the team according to your own judgment.
 
-## Ciele a hodnotenie skupinovej práce na zadaniach
+## Objectives and grading
 
-Ciele
+Objectives
 
-* Trénovať prácu v tíme
-* Lepšie spoznať spolužiakov
-* Vymeniť si skúsenosti so spolužiakmi, naučiť sa od nich nové postupy, vysvetliť si navzájom nejasnosti alebo sformulovať otázky nejasné celej skupine
+* Practice teamwork
+* Get to know your classmates better
+* Exchange experiences with classmates, learn new approaches from them, clarify misunderstandings, or formulate questions unclear to the whole group
 
-Zapojte všetkých členov tímu
+Involve all group members
 
-* Všetci členovia tímu by mali rozumieť odovzdanému riešeniu a vedieť podobné príklady riešiť samostatne.
-* Lepšie je vyriešiť menšiu časť zadania tak, aby tomu všetci členovia tímu rozumeli ako väčšiu časť, ktorú spraví jeden a nikto sa nič nenaučí.
+* All group members should understand the submitted solution and be able to solve similar exercises independently.
+* It is better to solve a smaller part of the assignment so that all group members understand it than to solve a larger part where one person does the work and nobody learns anything.
 
-Hodnotenie
+Grading
 
-* Hodnotiť budeme výsledné riešenie ale aj ako dobre ste spolupracovali.
-* Väčšinou dostanú všetci členovia tímu rovnako bodov, ale ak bude treba, môžeme niektorým členom body pridať alebo ubrať.
+* We will evaluate both the submitted solution and how well you collaborated.
+* Usually all group members receive the same points, but if necessary, we can add or subtract points for individual members.
 
-## Úlohy v tíme
+## Roles in a group
 
-Počas riešenia skupinových zadaní budete mať pridelené v rámci tímu konkrétne úlohy:
+During group assignments, you will have assigned specific roles within your team:
 
-* Jeden člen tímu má rolu "driver", podľa praxe v technike [párového programovania](https://en.wikipedia.org/wiki/Pair_programming). Driver ako jediný edituje dokument (notebook) s riešením úlohy, píše doňho kód, skúša ho spúšťať, ostatní mu pri tom radia.
-* Jeden člen tímu má rolu "chair". Chair dohliada na tímovú spoluprácu, aby sa všetci členovia tímu zapájali a aby ich prípadné otázky a návrhy boli ostatnými zobrané do úvahy.
-* Jeden člen tému na rolu "scribe". Scribe zapisuje denník priebehu spolupráce skupiny.
-* Všetci členovia skupiny, vrátane vyššie uvedených, sa podieľajú na samotnom riešení úloh (čítanie zadaní, diskusia o možnom riešení, hľadanie vhodných zdrojov, hľadanie chýb v programe, vysvetľovanie ostatným členom tímu podľa potreby atď).
-* Tímy s dvoma prípadne jedným členom majú obsadené iba úlohy driver a scribe. 
-* Ak nie sú všetci členovia tímu prítomní, prerozdeľte si úlohy podľa okolností.
+* One team member has the role of "driver", following the practice of [pair programming](https://en.wikipedia.org/wiki/Pair_programming). The driver is the only one who edits the notebook and runs the code, while others advise.
+* One team member has the role of "chair". The chair oversees team cooperation, ensuring all team members participate and their questions and suggestions are considered by others.
+* One team member has the role of "scribe". The scribe records a log of the team's collaboration progress.
+* All group members, including those mentioned above, participate in solving the tasks (reading assignments, discussing possible solutions, finding appropriate resources, searching for errors, explaining to other team members as needed, etc.).
+* Teams with two members have only the driver and scribe roles assigned.
+* If not all team members are present, redistribute roles according to circumstances.
 
-## Odovzdávanie
+## Submission
 
-Za celú skupinu odovzdá na konci skupinového stretnutia driver v Moodle dva dokumenty:
+At the end of the group session, the driver submits two documents to Moodle on behalf of the entire group:
 
-* Samotné vyriešené zadanie ako noteboook (formát ipynb)
-* Denník (formát pdf)
+* The notebook with your solutions (ipynb format)
+* The log (pdf format)
 
-V denníku uveďte
+In the log, include
 
-* členov tímu a ich úlohy 
-* prípadné špeciálne okolnosti (napr. ak vznikli technické problémy)
-* stručný komentár k priebehu
-  * na aké problémy ste počas riešenia úloh narazili, na čom ste strávili viac času, ako sa vám na koniec podarilo problém vyriešiť, prípadne čo vám je stále nejasné
-  * ak ste úlohy vyriešili veľmi rýchlo a bez problémov, môžete v skupine prediskutovať ako inak by sa dali riešiť, ako by sa dali programy ďalej rozšíriť či o iných otázkach súvisiacich s témou cvičení. Stručný sumár diskusie uveďte v denníku.
-* môžete spomenúť, ak s niektorými členmi boli problémy (prišli neskoro alebo sa odmietli rozumne zapojiť) alebo ak niekto bol naopak obzvlášť veľkou oporou tímu
+* team members and their roles
+* any special circumstances (e.g., if technical problems occurred)
+* a brief comment on the progress: any problems encountered while solving the tasks, any interesting discussions in the group 
+* you may mention if there were problems with some members (they arrived late or refused to participate reasonably) or if someone was particularly supportive of the team
 
-## Stretnutie
+## Tutorial class
 
-* Zoznam skupín a pridelené roly zverejníme pred cvičením cez Moodle.
-* Každá skupina obsadí blok počítačov vedľa seba v miestnosti H6. Driver sedí v strede, ale aj ostatní si zapnú počítače.
-* Zadania a kostru denníka nájdete v Moodli.
-* Jupyter notebook s riešenou úlohou edituje driver cez Google Colab, môže zdieľať s ostatnými členmi skupiny.
-* Denník edituje scribe a zdieľa s ostatnými členmi skupiny.
-* Jednotliví členovia skupiny teda na svojom počítači môžu mať otvorené oba dokumenty, notebook však modifikuje a spúšťa iba driver.
-* Prípadné úryvky navrhovaného kódu a podobne môžete zdieľať v špeciálnej sekcii denníka (scratch), kam píšu všetci. Zvyšok denníka má na starosti scribe.
-* Na konci stretnutia driver stiahne notebook aj denník a odovzdá v Moodle. Pred odovzdaním skontrolujte, či máte v Moodle správnych členov skupiny a prípadné nezrovnalosti riešte s cvičiami skôr než úlohu odovzdáte.
+* The list of groups and assigned roles will be published before the class via Moodle, please look it up.
+* Each group will occupy a block of computers next to each other in room I-H6. The driver sits in the middle, but others also turn on their computers.
+* Tasks and a log template can be found in Moodle.
+* The Jupyter notebook with the solved task is edited by the driver via Google Colab and can be shared with other group members.
+* The log is edited by the scribe and shared with other group members.
+* Individual group members can thus have both documents open on their computer, but only the driver modifies and runs the notebook.
+* Suggested code snippets and similar content can be shared in a special section of the log (scratch), where everyone writes. The rest of the log is handled by the scribe.
+* At the end of the session, the driver downloads the notebook (.ipynb) and log (.pdf) and submits them in Moodle. Before submission, verify that you have the correct group members in Moodle and resolve any discrepancies with the instructor before submitting.
 
-## Neúčasť
+## Absence
 
-* Ak sa z vážnych príčin nemôžete zúčastniť cvičení so skupinovou úlohou, kontaktujte [B. Ziga](./Contact.html), pokiaľ možno vopred.
-* Určí vám spôsob, ako si túto aktivitu môžete nahradiť.
+* If you cannot attend the tutorial class with a group task, contact [B. Zigo](./Contact.html), preferably at least 24 hours in advance so that we can take it into account when forming the groups.
+* If you have serious reasons for missing the class, we may allow you to make up this activity in another way.
+
