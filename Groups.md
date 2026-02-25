@@ -29,9 +29,9 @@ Grading
 
 During group assignments, you will have assigned specific roles within your team:
 
-* One team member has the role of "driver", following the practice of [pair programming](https://en.wikipedia.org/wiki/Pair_programming). The driver is the only one who edits the notebook and runs the code, while others advise.
-* One team member has the role of "chair". The chair oversees team cooperation, ensuring all team members participate and their questions and suggestions are considered by others.
-* One team member has the role of "scribe". The scribe records a log of the team's collaboration progress.
+* One team member has the role of **driver**, following the practice of [pair programming](https://en.wikipedia.org/wiki/Pair_programming). The driver is the only one who edits the notebook and runs the code, while others advise.
+* One team member has the role of **scribe**. The scribe records a log of the team's collaboration progress.
+* One team member has the role of **chair**. The chair oversees team cooperation, ensuring all team members participate and their questions and suggestions are considered by others.
 * All group members, including those mentioned above, participate in solving the tasks (reading assignments, discussing possible solutions, finding appropriate resources, searching for errors, explaining to other team members as needed, etc.).
 * Teams with two members have only the driver and scribe roles assigned.
 * If not all team members are present, redistribute roles according to circumstances.

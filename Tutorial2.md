@@ -2,11 +2,11 @@
 title: Tutorial 2
 ---
 
-During the second week you will have three tasks:
+During the second week you will have three sets of tasks:
 
-* a group assignment published at the start of tutorial (Friday morning) to be submitted by the end of the class,
-* a homework assignment published on Wednesday after the lecture, submit by the next **Tuesday 22:00**,
-* a quiz published on Wednesday after the lecture, submit by **the next day (Thursday) 22:00**
+* a short **quiz** published on Wednesday after the lecture, submit by **the next day (Thursday) 22:00**,
+* a **homework** assignment published on Wednesday after the lecture, submit by the next **Tuesday 22:00**,
+* a set of **group tasks** published at the start of tutorial (Friday morning) to be submitted by the end of the class.
 
 Quiz results will be available after the submission deadline.
 
