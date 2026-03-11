@@ -19,7 +19,7 @@ Prednáška 2 {% include notebook.html file='L02_Processing_Pandas' %}
 Prednáška 3 [prezentácia](./pdf/L03a_Plot_types.pdf)  **·**  {% include notebook.html file='L03_Plot_types' %}
 {% endif %}
 
-**Týždeň 9.-15.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>{% if false %}
+**Týždeň 9.-15.3. Základné popisné štatistiky a ich využitie vo vizualizácii**<br>{% if true %}
 Prednáška 4 [prezentácia](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include notebook.html file='L04_Summary_statistics' %} **·**  [oznamy](./L04-notes.md)
 {% endif %}
 
