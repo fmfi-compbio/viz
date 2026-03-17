@@ -16,3 +16,8 @@ V návode k projektom si pozrite časti
 * Prvé krátke kontrolné stretnutia skupín s cvičiacimi, mali by ste mať aspoň rozbehnuté sťahovanie a predspracovanie dát.
 * Zvyšok času na cvičeniach odporúčame pracovať na projektoch, hlavne koordinovať prácu v rámci skupiny.
 * Okrem cvičení by ste sa projektom mali venovať aj v inom čase. Predmet má váhu 5 kreditov, čo znamená napr. 8 hodín práce týždenne (vrátane prednášok a cvičení) počas semestra a 25 hodín práce cez skúškové.
+
+## Quizes and homework assignments
+
+* Continue until the end of the semester.
+* Starting this week, the quiz deadline will be on Tuesday, together with the homework.

@@ -1,33 +1,24 @@
 ---
-title: Oznamy 19.3.2025
+title: Notes March 18, 2026
 ---
 
-## Vytvorenie skupín na projekty
+## Forming groups for the project
 
-* Skupiny si zostavíte sami, majú mať 4-5 členov.
-* Skupiny zapíšte do tabuľky zalinkovanej v [Moodli](https://moodle.uniba.sk/mod/url/view.php?id=149879).
-* Termín na zostavenie skupín je pondelok 24.3. 13:00. 
+* You will form your own groups, each with 3-4 members.
+* The deadline for forming groups is Wednesday, March 25.
+* Write your group members in the table linked in [Moodle](https://moodle.uniba.sk/mod/url/view.php?id=149879).  
 
-## Voľba témy projektu
+## Topic selection for the project
 
-* Témy sú už na stránke.
-* Termín na zvolenie témy utorok 25.3. 16:20.
-* Zvolenú tému zapíšte do [tabuľky so skupinami](https://moodle.uniba.sk/mod/url/view.php?id=149879).
-* Najviac 4 skupiny môžu robiť tú istú tému, takže ak si už 4 iné skupiny vybrali a zapísali vašu najobľúbenejšiu tému, musíte si zvoliť inú (preto zapisujte tému čím skôr).
-* Ak chcete navrhnúť vlastnú tému, pošlite stručný popis témy a dostupných dát emailom B. Brejovej najneskôr do pondelka 24.3.
+* Topics are already on the website.
+* The deadline for selecting a topic is Friday March 27, 9:40.
+* Write the selected topic in the [group table](https://moodle.uniba.sk/mod/url/view.php?id=149879).
+* At most 5 groups can work on the same topic, so if 5 other groups have already chosen and signed up for your favorite topic, you must choose another (therefore record the topic in the table as soon as possible).
+* If you want to propose your own topic, send a brief description of the topic and available data by email to B. Brejová by Wednesday, March 25.
 
-## Cvičenia budúci týždeň
+## Tutorials
 
-* V prvej časti cvičenia robíte skupinové zadanie v skupinách pre projekt.
-* Druhú časť cvičenia odporúčame využiť na začiatok práce na projekte, hlavne organizáciu v rámci skupiny.
-  * Dohodnite sa, ako budete v skupine komunikovať, rozdeľovať úlohy, zdieľať súbory a podobne.
-  * Založte si denník a linku, ktorá umožňuje do denníku vkladať komentáre, zapíšte do príslušnej úlohy v [Moodle](https://moodle.uniba.sk/mod/assign/view.php?id=151600) (budeme vám tam zapisovať priebežné hodnotenie).
+* This Friday usual group tasks in random groups created by us.
+* Next Friday group tasks in project groups, later start working on the project itself.
+* In the following weeks, we will have meetings with project groups to discuss the progress of the projects.
 
-## Ďalšie cvičenia
-
-* Kontrolné stretnutia s cvičiacimi ohľadom projektov, práca na projekte.
-
-## Kvízy a domáce úlohy
-
-* Od tohto týždňa termín vždy až ďalšiu stredu 22:00.
-* Mierny prekryv s ďalším zadaním.

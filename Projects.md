@@ -25,11 +25,11 @@ The project is a key part of this course.
 ## Project topics
 
 Below we offer five project topics. You can choose one of them, or propose your own.
-For each topic, questions are listed that you can explore. These are just ideas, you don't have to explore all of them and you can also come up with others. Connecting data from the listed pages with other data sources is highly encouraged, but focus primarily on the listed tables.
+For each topic, we list questions that you can explore. These are just ideas, you don't have to explore all of them and you can also come up with others. Connecting data from the listed sources with other data sources is highly encouraged, but focus primarily on the listed tables.
 
 ### Beaches
 
-The European Environment Agency publishes a table of bathing water quality at beaches in the European Union ([data](https://sdi.eea.europa.eu/data/30e5d599-6bc1-408d-9e65-a10e433b81ef)). Process this data either at the EU level or for selected countries you are familiar with. You can visualize water quality on maps, track its changes over time, compare different countries or their regions. Does water quality relate to the wealth of a country, the number of tourists visiting it, the density of settlement around a particular location and so on? You can also be inspired by the [official European report](https://www.eea.europa.eu/themes/water/europes-seas-and-coasts/assessments/state-of-bathing-water) and replicate some of its analyses (don't forget to mention the inspiration in your report).
+The European Environment Agency publishes a table of bathing water quality at beaches in the European Union ([data](https://sdi.eea.europa.eu/data/30e5d599-6bc1-408d-9e65-a10e433b81ef)). Process this data either at the EU level or for selected countries you are familiar with. You can visualize water quality on maps, track its changes over time, compare different countries or their regions. Does water quality relate to the wealth of a country, the number of tourists visiting it, the density of settlement around a particular location and so on? You can also be inspired by the [official European report](https://www.eea.europa.eu/en/analysis/publications/european-bathing-water-quality-in-2024) and replicate some of its analyses (don't forget to mention the inspiration in your report).
 
 
 ### Streets
@@ -39,12 +39,12 @@ The Ministry of the Interior of Slovakia publishes a list of addresses in Slovak
 
 ### Universities
 
-The Ministry of Education, Research, Development and Youth of Slovakia publishes a register of employees at universities, in which contains names of university teachers, their titles, positions at individual faculties and participation in guaranteeing study programs. You can look at the number of teachers at different faculties, their changes over time, teachers who currently work at multiple universities or those who have changed employers.
+The Ministry of Education, Research, Development and Youth of Slovakia publishes a register of employees at universities, which contains names of university teachers, their titles, positions at individual faculties and participation in guaranteeing study programs. You can look at the number of teachers at different faculties, their changes over time, teachers who currently work at multiple universities or those who have changed employers.
 [Data for download](https://data.slovensko.sk/datasety/f05a7371-420e-4381-99da-a63d50303124), interactive [portal](https://www.portalvs.sk/regzam/) for better orientation in the data.
 
-### Religion
+### Religions
 
-Website Our World in Data has several [analyses of religion](https://ourworldindata.org/religion) for which they provide data for download. You can try to replicate some of their analyses and add your own. Do not forget to mention inspiration for your analyses in your report. Concentrate on the follwoing two data sets: different religions in countries ([data](https://ourworldindata.org/grapher/number-of-people-by-religion.csv?v=1&csvType=full&useColumnShortNames=true), [metadata](https://ourworldindata.org/grapher/number-of-people-by-religion.metadata.json?v=1&csvType=full&useColumnShortNames=true)), importance of religion in countries: ([data](https://ourworldindata.org/grapher/how-important-religion-is-in-your-life.csv?v=1&csvType=full&useColumnShortNames=true), [metadata](https://ourworldindata.org/grapher/how-important-religion-is-in-your-life.metadata.json?v=1&csvType=full&useColumnShortNames=true)). You can combine these with other country indicators such as GDP and fertility. 
+Website Our World in Data has several [analyses of religion](https://ourworldindata.org/religion) for which they provide data for download. You can try to replicate some of their analyses and add your own. Do not forget to mention inspiration for your analyses in your report. Concentrate on the following two data sets: different religions in countries ([data](https://ourworldindata.org/grapher/number-of-people-by-religion.csv?v=1&csvType=full&useColumnShortNames=true), [metadata](https://ourworldindata.org/grapher/number-of-people-by-religion.metadata.json?v=1&csvType=full&useColumnShortNames=true)), importance of religion in countries: ([data](https://ourworldindata.org/grapher/how-important-religion-is-in-your-life.csv?v=1&csvType=full&useColumnShortNames=true), [metadata](https://ourworldindata.org/grapher/how-important-religion-is-in-your-life.metadata.json?v=1&csvType=full&useColumnShortNames=true)). You can combine these with other country indicators such as GDP and fertility. 
 
 ### Microbes
 
@@ -69,7 +69,7 @@ Link to data and their more detailed description will be provided later. This pr
 
 * Each Friday class from April 10 to May 8, there will be a brief meeting of each group with instructors regarding progress on the project.
 * The group has prepared brief notes in their log document regarding the current state (who did what, what are the next plans and whether there are any problems).
-* At the beginning of the meeting, open this section of the log and briefly report it. One or more group members can do the review.
+* At the beginning of the meeting, open this section of the log and briefly report it. One or more group members can do the report.
 * The meeting continues with a discussion with the instructors.
 * Have additional files ready so you can quickly show completed or problematic visualizations and tables.
 * Be prepared for the meeting so we don't waste time waiting for you to find and open the appropriate files.
@@ -101,12 +101,12 @@ Report is a document that you would submit to the "customer" assigning you the p
 * Table of contents with a list of chapters and links or page numbers (if possible generated automatically)
 * Introduction briefly introducing the project topic
 * Description of where you obtained the data, how you processed it (whether it was necessary to filter or otherwise modify it) and basic characteristics of the data (for individual used tables, specify the meaning of each column and the number of rows, possibly also other summary statistics). Based on your description, the reader should have a good understanding of what the data looks like without having to download and examine it.
-* Results of further analyses (divided into several chapters). For each analysis, briefly describe what you did with the data, include graphs or tables with results, explain what trends and other conclusions you see. When drawing conclusions, be careful not to assume causality from correlation. The text should make it clear which are actual observations and which are your hypotheses. You can compare your results with those from other sources (though this is not required).
+* Results of further analyses (divided into several chapters). For each analysis, briefly describe what you did with the data, include graphs or tables with results, explain what trends and other conclusions you see. When drawing conclusions, be careful not to assume causation from correlation. The text should make it clear which are actual observations and which are your hypotheses. You can compare your results with those from other sources (though this is not required).
 * Conclusion with a brief summary of main findings and possibilities for further work.
 
-The report should be written in a formal technical style without grammatical errors, written in Slovak or English. Figures and tables should have captions explaining what is shown in the plot or in the table and should be numbered (figure 1, table 1 etc.). Furthermore, reference each figure and table in the main text (as shown in figure 1). If you used any sources during your work, list them in the bibliography at the end of the report (data sources, literature on the subject area). Do not include code or describe technical aspects of the project (how you programmed it) and you do not need to include links to sources directly related to programming. The report is submitted as a pdf file. You can create it as a Google doc or in another system (for example Latex).
+The report should be written in a formal technical style without grammatical errors, written in Slovak or English. Figures and tables should have captions explaining what is shown in the plot or in the table and should be numbered (figure 1, table 1 etc.). Furthermore, reference each figure and table in the main text ("as shown in figure 1"). If you used any sources during your work, list them in the bibliography at the end of the report (data sources, literature on the subject area). Do not include code or describe technical aspects of the project (how you programmed it) and you do not need to include links to sources directly related to programming. The report is submitted as a pdf file. You can create it as a Google doc or in another system (for example Latex).
 
-If you want to see examples of a formal technical text with numbered figures and tables, you can look at the [proceedings of the Students' Science Conference](https://zona.fmph.uniba.sk/fileadmin/fmfi/studentska_vedecka_konferencia/zbierka2025/svk2025_zbornik.pdf) (your reports probably won't have so much mathematics, you will likely cite websites rather than scientific publications, and you also don't have to format the report into two columns).
+If you want to see examples of a formal technical text with numbered figures and tables, you can look at the [proceedings of the Students' Science Conference](https://zona.fmph.uniba.sk/fileadmin/fmfi/studentska_vedecka_konferencia/zbierka2025/svk2025_zbornik.pdf). However, your reports probably won't have so much mathematics, you will likely cite websites rather than scientific publications, and you also don't have to format the report into two columns.
 
 We also provide a sample [report template](https://docs.google.com/document/d/1BKmmjGd8X594S5bK9uMwl3LV271EH0UOjone0eWMTzY/edit?usp=sharing) as a Google doc, from which you can start if you wish.
 
@@ -117,7 +117,7 @@ The report text should be written by you. Do not generate text with artificial i
 
 You should [submit](https://moodle.uniba.sk/mod/assign/view.php?id=151604) the source code of your projct in the form of a Jupyter notebook, containing the entire analysis including  data loading, their preprocessing to the rendering of final graphs used in the report. The entire code should be executable in Colab. If some part of the data preprocessing is not practical to do in the notebook, state this in the notebook and describe the preprocessing process there, or submit relevant code in a separate file. The notebook should contain headers characterizing individual parts of the analysis and brief descriptions of individual parts of the code. Also include links (URL) to used sources, especially if you copied code from them (including AI tools).
 
-Notebook should load data from some URL, where you will store it either in the original or preprocessed form, see [Technical guidelines](#technical-guidelines). On the oral exam, it will be necessary for you to be able to run and modify the notebook on a computer in I-H6 or another classroom.
+Notebook should load data from some URL, where you will store it either in the original or preprocessed form, see [Technical requirements](#technical-requirements). On the oral exam, it will be necessary for you to be able to run and modify the notebook on a computer in I-H6 or another classroom.
 
 ### Project log
 
@@ -133,7 +133,7 @@ The project log serves for instructors to monitor your progress. But it also ser
 
 It is a good practice to maintain such notes, especially for larger data analysis projects, as you may not remember all the details from the beginning by the end of the project. This also helps with coordination within the group.
 
-At the end of the log, write a brief overview for each member of the group, detailing which parts of the project they worked on and let us know if you want to share the project.
+At the end of the log, write a brief overview of contributions of each member of the group.
 
 ## Presentation
 
