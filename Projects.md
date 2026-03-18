@@ -62,8 +62,8 @@ Link to data and their more detailed description will be provided later. This pr
 
 * **First steps:** Downloading data, their preprocessing to a suitable form, exploring basic characteristics, correcting or removing errors. During the class on April 10, you should already have these activities started or even completed.
 * **Next stages:** Set a question that can be analyzed in your data and try to answer it with appropriate graphs and tables. Try to find the most suitable visualization and examine visible trends or their exceptions. Gradually work on several such questions. Individual members of the group or subgroups can work in parallel on different questions. Gradually compile materials that you will submit.
-* **Project presentations:** Presentations will be held in the week of May 11.-15. during the classes on Wednesday and Friday or in another agreed time.
-* **Project submission:** The deadline is on Monday May 18, 22:00.
+* **Project presentations:** Presentations will be held in the week of May 11-15 during the classes on Wednesday and Friday or in another agreed time.
+* **Project submission:** The deadline is on Tuesday May 19, 22:00.
 
 ### Progress meetings
 
