@@ -24,7 +24,7 @@ Lecture 4 [presentation](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include 
 {% endif %}
 
 **Týždeň 16.-22.3. Advanced Pandas**<br>{% if true %}
-Lecture 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projects](./Projects.md)**·**  [Annoucements](./L05-notes.md)
+Lecture 5  [presentation](./pdf/L05a_Pandas_2.pdf)  **·** {% include notebook.html file='L05_Pandas_2' %} **·** [Projects](./Projects.md) **·**  [Annoucements](./L05-notes.md)
 {% endif %}
 
 **Týždeň 23.-29.3. Mapy, siete, časové rady**<br>{% if false %}
