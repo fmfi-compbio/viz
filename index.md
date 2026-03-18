@@ -20,23 +20,23 @@ Lecture 3 [presentation](./pdf/L03a_Plot_types.pdf)  **·**  {% include notebook
 {% endif %}
 
 **Týždeň 9.-15.3. Summary statistics and their use in visualization**<br>{% if true %}
-Lecture 4 [presentation](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include notebook.html file='L04_Summary_statistics' %} **·**  [annoucements](./L04-notes.md)
+Lecture 4 [presentation](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include notebook.html file='L04_Summary_statistics' %} **·**  [Annoucements](./L04-notes.md)
 {% endif %}
 
-**Týždeň 16.-22.3. Spracovanie dát v knižnici Pandas (2)**<br>{% if false %}
-Lecture 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projekty](./Projects.md)**·**  [annoucements](./L05-notes.md)
+**Týždeň 16.-22.3. Advanced Pandas**<br>{% if true %}
+Lecture 5  {% include notebook.html file='L05_Pandas_2' %} **·** [Projects](./Projects.md)**·**  [Annoucements](./L05-notes.md)
 {% endif %}
 
 **Týždeň 23.-29.3. Mapy, siete, časové rady**<br>{% if false %}
-Lecture 6 [presentation](./pdf/L06a_Maps_etc.pdf)  **·** {% include notebook.html file='L06_Maps_etc' %} **·**  [annoucements](./L06-notes.md)
+Lecture 6 [presentation](./pdf/L06a_Maps_etc.pdf)  **·** {% include notebook.html file='L06_Maps_etc' %} **·**  [Annoucements](./L06-notes.md)
 {% endif %}
 
 **Týždeň 30.3.-5.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>{% if false %}<-- nebudu cvicenia-->
-Lecture 7 [presentation](./pdf/L07a_More_statistics.pdf) **·** {% include notebook.html file='L07_More_statistics' %} **·** [annoucements](./L07-notes.md)
+Lecture 7 [presentation](./pdf/L07a_More_statistics.pdf) **·** {% include notebook.html file='L07_More_statistics' %} **·** [Annoucements](./L07-notes.md)
 {% endif %}
 
 **Týždeň 6.-12.4. Fázy projektu, ľudské vizuálne vnímanie, farby, formáty**<br>{% if false %}
-Lecture 8 [presentation](./pdf/L08_Perception_colors.pdf) **·** [annoucements](./L08-notes.md)
+Lecture 8 [presentation](./pdf/L08_Perception_colors.pdf) **·** [Annoucements](./L08-notes.md)
 {% endif %}
 
 **Týždeň 13.-19.4.**<br>{% if true %}
@@ -44,11 +44,11 @@ V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/students
 {% endif %}
 
 **Týždeň 20.-26.4. Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát**<br>{% if false %}
-Lecture 9 [presentation](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [annoucements](./L09-notes.md)
+Lecture 9 [presentation](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Annoucements](./L09-notes.md)
 {% endif %}
 
 **Týždeň 27.4-3.5. Presentation výsledkov, kognitívne skreslenie, infografika**<br>{% if false %}
-Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** [annoucements](./L10-notes.md) **·** [skúška](./Exam.md)
+Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** [Annoucements](./L10-notes.md) **·** [skúška](./Exam.md)
 {% endif %}
 
 **Týždeň 4.-10.5. Interaktivita, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
