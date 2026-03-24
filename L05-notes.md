@@ -2,6 +2,15 @@
 title: Notes March 18, 2026
 ---
 
+## Project
+
+On the webpage about projects, read the following sections
+
+* [project goals](./Projects.html#project-goals)
+* [project topics](./Projects.html#project-topics)
+* [evaluation](./Projects.html#evaluation)
+
+
 ## Forming groups for the project
 
 * You will form your own groups, each with 3-4 members.

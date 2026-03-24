@@ -2,6 +2,12 @@
 title: Poznámky 2.4.2025
 ---
 
+## Project
+
+On the webpage about projects, read the following sections
+
+* [kontrolné stretnutia](./Projects.html#kontrolné-stretnutia).
+
 ## Vítame študentov Minierasmu
 
 * Predmet pre prvákov Dátovej vedy a Bioinformatiky

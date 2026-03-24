@@ -1,21 +1,29 @@
 ---
-title: Poznámky 26.3.2025
+title: Notes March 25, 2026
 ---
 
 
-## Projekt
+## Project
 
-V návode k projektom si pozrite časti
-* [denník](./Projects.html#denník),
-* [technické pokyny](./Projects.html#technické-pokyny),
-* [používanie zdrojov](./Projects.html#používanie-zdrojov),
-* [kontrolné stretnutia](./Projects.html#kontrolné-stretnutia).
+On the webpage about projects, read the following sections
 
-## Cvičenia budúci týždeň
+* [project log](./Projects.html#project-log),
+* [technical requirements](./Projects.html#technical-requirements),
+* [using resources](./Projects.html#using-resources),
 
-* Prvé krátke kontrolné stretnutia skupín s cvičiacimi, mali by ste mať aspoň rozbehnuté sťahovanie a predspracovanie dát.
-* Zvyšok času na cvičeniach odporúčame pracovať na projektoch, hlavne koordinovať prácu v rámci skupiny.
-* Okrem cvičení by ste sa projektom mali venovať aj v inom čase. Predmet má váhu 5 kreditov, čo znamená napr. 8 hodín práce týždenne (vrátane prednášok a cvičení) počas semestra a 25 hodín práce cez skúškové.
+## Groups for project, class this Friday
+
+* Do not forget to form groups and write them to the table listed in Moodle
+* Instructors will group the remaining students on Friday
+* Friday: last group tasks, this time done in project groups
+* Also create a document for project log and submit a link to Moodle
+* If you have time left, you can start coordinating work on the project
+
+## Start working on projects
+
+* Get organized and start working on the project. We expect the first results Friday after Easter.
+* This course has 5 credits, which means e.g. 8 hours of work during the semester (including lecture and tutorial) and 25 hours total during the exam period.
+  * So far you probably spent less time so we expect significant work on project from each of you each week.
 
 ## Quizes and homework assignments
 
