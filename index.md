@@ -6,14 +6,16 @@ title: Materiály
 
 Videá v slovenčine: <https://www.youtube.com/playlist?list=PLCnvzZTQ9hx51lisuEm0i55DFErnZnqx2>
 
-**Týždeň 16.-22.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>
+**Týždeň 16.-22.2. Úvod do predmetu, systémy Jupyter a Colab, knižnica Matplotlib**<br>{% if true %}
 Lecture 1a [pdf](./pdf/L01a_visualization_history.pdf) **·** 
 Lecture 1b {% include notebook.html file='L01b_Jupyter_Colab_Matplotlib' %} **·**
 [cvičenie 1](./Tutorial1.md)<br>
+{% endif %}
 
-**Týždeň 23.-1.3. Spracovanie dát v knižnici Pandas**<br>
+**Týždeň 23.-1.3. Spracovanie dát v knižnici Pandas**<br>{% if true %}
 [Cvičenie 2](./Tutorial2.md) · [Práca v tíme](./Groups.md) <br>
 Lecture 2 {% include notebook.html file='L02_Processing_Pandas' %}
+{% endif %}
 
 **Týždeň 2.-8.3. Základné typy grafov a ich vykresľovanie v knižniciach Matplotlib, Seaborn, Plotly**<br>{% if true %}
 Lecture 3 [presentation](./pdf/L03a_Plot_types.pdf)  **·**  {% include notebook.html file='L03_Plot_types' %}
@@ -27,7 +29,7 @@ Lecture 4 [presentation](./pdf/L04a_Summary_statistics.pdf)  **·**  {% include 
 Lecture 5  [presentation](./pdf/L05a_Pandas_2.pdf)  **·** {% include notebook.html file='L05_Pandas_2' %} **·** [Projects](./Projects.md) **·**  [Annoucements](./L05-notes.md)
 {% endif %}
 
-**Týždeň 23.-29.3. Mapy, siete, časové rady**<br>{% if false %}
+**Týždeň 23.-29.3. Maps, graphs, time series**<br>{% if true %}
 Lecture 6 [presentation](./pdf/L06a_Maps_etc.pdf)  **·** {% include notebook.html file='L06_Maps_etc' %} **·**  [Annoucements](./L06-notes.md)
 {% endif %}
 
