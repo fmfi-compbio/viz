@@ -9,6 +9,8 @@ On the webpage about projects, read the following sections
 * [Project phases](Projects.html#project-phases),
 * [Progress meetings](Projects.html#progress-meetings).
 
+Some groups did not submit link to their project log. Make sure you do it!
+
 ## Timeline for the rest of the semester
 
 ```

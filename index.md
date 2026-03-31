@@ -1,8 +1,8 @@
 ---
-title: Materiály
+title: Materials
 ---
 
-**[Pravidlá](./Rules.md) · [Práca v tíme](./Groups.md) {% if false %} · [Projekty](./Projects.md) {% endif %} · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Kontakt](./Contact.md)**
+**[Rules](./Rules.md) · [Groups](./Groups.md) {% if true %}· [Projects](./Projects.md) {% endif %} · [Moodle](https://moodle.uniba.sk/course/view.php?id=3421) · [Contact](./Contact.md)**
 
 Videá v slovenčine: <https://www.youtube.com/playlist?list=PLCnvzZTQ9hx51lisuEm0i55DFErnZnqx2>
 
@@ -33,7 +33,7 @@ Lecture 5  [presentation](./pdf/L05a_Pandas_2.pdf)  **·** {% include notebook.h
 Lecture 6 [presentation](./pdf/L06a_Maps_etc.pdf)  **·** {% include notebook.html file='L06_Maps_etc' %} **·**  [Annoucements](./L06-notes.md)
 {% endif %}
 
-**Týždeň 30.3.-5.4. Histogram, rozdelenie pravdepodobnosti, redukcia dimenzií**<br>{% if false %}<-- nebudu cvicenia-->
+**Týždeň 30.3.-5.4. Histograms, probability distributions, dimensionality reduction**<br>{% if false %}
 Lecture 7 [presentation](./pdf/L07a_More_statistics.pdf) **·** {% include notebook.html file='L07_More_statistics' %} **·** [Annoucements](./L07-notes.md)
 {% endif %}
 
