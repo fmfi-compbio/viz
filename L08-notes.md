@@ -3,6 +3,16 @@ title: Poznámky 16.4.2025
 ---
 
 ## Študentská vedecká konferencia
+* [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
+* Budúcu stredu 9.4.2025 (dekanské voľno).
+* Študenti prezentujú výsledky výskumu, často bakalárske alebo diplomové práce.
+* Aj práce z DAV.
+* Choďte sa pozrieť na niektoré prednášky, inšpirácia k hľadaniu témy bakalárskej práce.
+* Relevantné sekcie Matematika, Počítačová grafika, Informatika.
+* Dúfam, že aj veľa z vás za pár rokov uvidím na ŠVK.
+
+
+## Študentská vedecká konferencia
 
 Študenti a absolventi DAV dosiahli na ŠVK veľa úspechov:
 

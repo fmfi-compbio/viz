@@ -1,65 +1,51 @@
 ---
-title: Poznámky 2.4.2025
+title: Notes April 1, 2026
 ---
 
 ## Project
 
 On the webpage about projects, read the following sections
 
-* [kontrolné stretnutia](./Projects.html#kontrolné-stretnutia).
+* [Project phases](Projects.html#project-phases),
+* [Progress meetings](Projects.html#progress-meetings).
 
-## Vítame študentov Minierasmu
-
-* Predmet pre prvákov Dátovej vedy a Bioinformatiky
-* Učíme sa vykresľovať bežné aj menej bežné typy grafov a spracovávať tabuľkové dáta pomocou knižníc v jazyku Python
-* Používame online prostredie Google Colab
-
-
-## Študentská vedecká konferencia
-* [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
-* Budúcu stredu 9.4.2025 (dekanské voľno).
-* Študenti prezentujú výsledky výskumu, často bakalárske alebo diplomové práce.
-* Aj práce z DAV.
-* Choďte sa pozrieť na niektoré prednášky, inšpirácia k hľadaniu témy bakalárskej práce.
-* Relevantné sekcie Matematika, Počítačová grafika, Informatika.
-* Dúfam, že aj veľa z vás za pár rokov uvidím na ŠVK.
-
-
-## Harmonogram na zvyšok semestra
+## Timeline for the rest of the semester
 
 ```
-Týždeň 7.-13.4. 
-Cvičenia: projektové stretnutie 2
-Prednáška nebude, študentská vedecká konferencia
-  Nebude ani nová DÚ/kvíz
-  Odporúčame využiť na intenzívnu prácu na projekte
+Week of April 1:
+Wednesday lecture: More statistics
+Friday: holiday, no tutorial
+homework and quiz due in 2 weeks on Tuesday April 14
 
-Týždeň 14.-20.4. 
-Cvičenia: projektové stretnutie 3
-  Ideálne by ste mali hotovú väčšiu časť základných analýz.
-  Zvyšok času využiť na ich dopĺňanie, vylepšovanie,
-  spisovanie textu a prezentácie.
-Prednáška: Ľudské vizuálne vnímanie, farby, formáty
-Od štvrtka Veľká noc
+Week of April 8:
+Wednesday lecture: human vision, colors, formats
+Friday tutorial: progress meeting 1
+homework and quiz due in 2 weeks on Tuesday April 21
 
-Týždeň 21.-27.4.
-Cvičenia: nebudú Veľká noc
-Prednáška: Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát
+Week of April 15:
+Wednesday: no lecture, Student research conference
+Friday tutorial: progress meeting 2
+no new homework or quiz, use the time for project work
 
-Týždeň 28.4-4.5.
-Cvičenia: projektové stretnutie 4
-Prednáška: Fázy projektu, prezentácia výsledkov, kognitívne skreslenie
+Week of April 22:
+Wednesday lecture: Text data, preattentive attributes, gestalt, illusions
+Friday tutorial: progress meeting 3
+homework on quiz back on normal schedule
 
-Týždeň 5.-11.5.
-Cvičenia: projektové stretnutie 5
-Prednáška: Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy
+Week of April 29:
+Wednesday lecture: Project phases, presentation of results, cognitive bias, interactive visualization 
+Friday: holiday, no tutorial
 
-Týždeň 12.-18.5.
-Prezentácie projektov počas cvičení aj prednášky
+Week of May 6:
+Wednesday lecture: Infographics, interactive visualization, other visualization systems, specialized charts
+Friday tutorial: progress meeting 4
 
-Pondelok 19.5. 22:00 odovzdanie projektov
+Week of May 13:
+Project presentations on both Wednesday and Friday lectures/tutorials
+
+Week of May 20:
+Wednesday May 20, 22:00 project submission deadline
+no lecture or tutorial
 ```
-
-Pozrite si [pokyny k projektom](./Projects.md)
 
 
