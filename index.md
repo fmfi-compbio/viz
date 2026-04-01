@@ -12,7 +12,7 @@ Lecture 1b {% include notebook.html file='L01b_Jupyter_Colab_Matplotlib' %} **·
 [cvičenie 1](./Tutorial1.md)<br>
 {% endif %}
 
-**Týždeň 23.-1.3. Spracovanie dát v knižnici Pandas**<br>{% if true %}
+**Týždeň 23.-1.3. Data processing in Pandas library**<br>{% if true %}
 [Cvičenie 2](./Tutorial2.md) · [Práca v tíme](./Groups.md) <br>
 Lecture 2 {% include notebook.html file='L02_Processing_Pandas' %}
 {% endif %}
@@ -33,7 +33,7 @@ Lecture 5  [presentation](./pdf/L05a_Pandas_2.pdf)  **·** {% include notebook.h
 Lecture 6 [presentation](./pdf/L06a_Maps_etc.pdf)  **·** {% include notebook.html file='L06_Maps_etc' %} **·**  [Annoucements](./L06-notes.md)
 {% endif %}
 
-**Týždeň 30.3.-5.4. Histograms, probability distributions, dimensionality reduction**<br>{% if false %}
+**Týždeň 30.3.-5.4. Histograms, probability distributions, dimensionality reduction**<br>{% if true %}
 Lecture 7 [presentation](./pdf/L07a_More_statistics.pdf) **·** {% include notebook.html file='L07_More_statistics' %} **·** [Annoucements](./L07-notes.md)
 {% endif %}
 
@@ -49,7 +49,7 @@ V stredu [Študentská vedecká konferencia](https://zona.fmph.uniba.sk/students
 Lecture 9 [presentation](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Annoucements](./L09-notes.md)
 {% endif %}
 
-**Týždeň 27.4-3.5. Presentation výsledkov, kognitívne skreslenie, infografika**<br>{% if false %}
+**Týždeň 27.4-3.5. Prezentácia výsledkov, kognitívne skreslenie, infografika**<br>{% if false %}
 Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** [Annoucements](./L10-notes.md) **·** [skúška](./Exam.md)
 {% endif %}
 
@@ -59,4 +59,4 @@ Lecture 11 [presentation](./pdf/L11a_Miscelaneous.pdf) **·** {% include noteboo
 
 **Týždeň 11.-17.5. Prezentácie projektov**
 
-**Týždeň 18.-24.5. Prezentácie projektov, rezerva**
+**Týždeň 18.-24.5. Rezerva**
