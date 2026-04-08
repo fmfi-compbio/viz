@@ -50,7 +50,7 @@ Website Our World in Data has several [analyses of religion](https://ourworldind
 
 The American Gut Project provides data on the presence of various microbes in the human gut and their relationship to various factors such as diet, health, and lifestyle. You can explore the distribution of microbes in different individuals, their co-occurrence, and how they relate to factors such as diet and health. You can try to do simpler versions of the analyses presented in the listed papers (do not forget to mention the inspiration in your report) or come up with your own. This project can be done by both Bioinformatics and Data Science students. 
 
-[Data and their more detailed description](./data/microbes/README.html)
+[Data and their more detailed description](./data/microbes/)
 
 
 ## Project phases
