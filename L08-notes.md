@@ -1,61 +1,53 @@
 ---
-title: Poznámky 16.4.2025
+title: Notes April 8, 2026
 ---
 
-## Študentská vedecká konferencia
+## Student Research Conference
+
 * [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
-* Budúcu stredu 9.4.2025 (dekanské voľno).
-* Študenti prezentujú výsledky výskumu, často bakalárske alebo diplomové práce.
-* Aj práce z DAV.
-* Choďte sa pozrieť na niektoré prednášky, inšpirácia k hľadaniu témy bakalárskej práce.
-* Relevantné sekcie Matematika, Počítačová grafika, Informatika.
-* Dúfam, že aj veľa z vás za pár rokov uvidím na ŠVK.
+* Next Wednesday April 15, 2026 (no classes).
+* Students present research results, often bachelor's or master's theses.
+* Some talks by students from Data Science.
+* Go check out some lectures, inspiration for finding a topic for your bachelor's thesis.
+* Relevant sections: Applied Mathematics, Computer Vision and Graphics, Computer Science.
+* I hope to see your talks at the conference in a few years.
+
+## Projects
+
+See project phases in the presentation 
+
+Recommended approximate timeline for the project:
+
+* Presentations in 5 weeks
+* Hopefully you already work on data acquisition, preprocessing, and validation
+* 1 week basic exploratory analysis: examine different aspects of the data with basic plots, look for interesting observations
+* 1 week for deeper analysis of selected areas, possibly acquiring and using additional data
+* 1 week for completing analyses, preparing final graphs for the report and presentation, starting to create these documents
+* 1 week for completing the presentation and report, practicing the presentation
+* 1 week left so you can make one phase longer
+
+## Group work on projects
+
+* We recommend creating independent tasks and working on them individually or in pairs
+* Coordinating is also important:
+  * sharing code and findings,
+  * flexible changes to tasks according to circumstances,
+  * organizing results into a coherent whole
+* Don't forget about the project log, which should help you with coordination and also map your progress
+
+## This Friday
+
+* First progress meeting for projects
+* Have notes ready in project log + some preliminary results to show
+* See [project guidelines](./Projects.html#progress-meetings)
+
+Second progress meeting Friday next week
 
 
-## Študentská vedecká konferencia
+## Homework
 
-Študenti a absolventi DAV dosiahli na ŠVK veľa úspechov:
+* Last week's homework and quiz due next Tuesday
+* This week's homework and quiz published today, deadline on Tuesday in two weeks, we recommend doing it sooner
 
-* Zuzana Kováčová: Specificity of the Methodology for Detecting Anomalies in Athletes’ Biological Passports Used in Anti-Doping Testing, 2. miesto v sekcii Matematika
-* Andrej Špitalský: Effects of Diffusion on Territory Formation in Wolf Populations. laureát, Cena prof. Mariána Neamtu v sekcii Matematika
-* Lukáš Gáborik: Flow triangulations of cubic graphs, laureát  v sekcii Matematika
-* Damian Harenčák: Decentralized privacy preserving federated learning for 3D scan processing, jeden z víťazov v sekcii Počítačová grafika a strojové učenie
-* Erik Božík: Slovak Speech Corpora for Open-Source Automatic Speech Recognition
-laureát v sekcii Počítačová grafika a strojové učenie
 
-Všetkým gratulujeme a dúfame, že budú inšpiráciou pre vás zúčastniť sa ŠVK v budúcnosti.
-
-## Projekty
-
-Viď fázy projektu v prezentácii 
-
-Odporúčaný orientačný časový plán:
-
-* Do prezentácií zostávajú 4 týždne
-* Snáď už máte hotové získanie dát, ich predspracovanie a kontrolu
-* Tiež už snáď hotová exploratívna analýza: preskúmať rôzne aspekty dát základnými grafmi, hľadanie zaujímavých pozorovaní
-* 1 týždeň hlbšia analýza vybraných oblastí, prípadne získanie a využitie doplnkových dát
-* 1 týždeň dokončovanie analýz, príprava finálnych grafov do správy a prezentácie, začiatok vytvárania týchto dokumentov
-* 1 týždeň dokončenie prezentácie a správy, precvičenie prezentácie
-* Rezerva 1 týždeň, takže na niektorú fázu môžete využiť viac času
-
-Pozrite si [pokyny k projektom](./Projects.md)
-
-## Domáce úlohy, Veľká noc
-
-* Budúci týždeň cvičenia nebudú, prednáška ale áno
-* Do dnes večera HW07 + kvíz
-* HW08 + kvíz zverejnené dnes po prednáške, termín o dva týždne, odporúčame spraviť skôr
-* Budúcu stredu zverejníme HW09 + kvíz, termín naraz z HW08
-
-<!--
-Skupinová práca:
-
-* Odporúčame vymyslieť nezávislé úlohy a pracovať na nich jednotlivo alebo v dvojciach
-* Doležitá je ale koordinácia:
-  * zdieľanie kódu a zistení,
-  * flexibilné zmeny úloh podľa okolností,
-  * usporiadanie výsledkov do koherentného celku
-* Nezabudnite na denník, ktorý by vám mal pomáhať v koordinácii ale aj mapovať váš pokrok
--->
 
