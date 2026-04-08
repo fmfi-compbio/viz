@@ -2,16 +2,6 @@
 title: Notes April 8, 2026
 ---
 
-## Student Research Conference
-
-* [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
-* Next Wednesday April 15, 2026 (no classes).
-* Students present research results, often bachelor's or master's theses.
-* Some talks by students from Data Science.
-* Go check out some lectures, inspiration for finding a topic for your bachelor's thesis.
-* Relevant sections: Applied Mathematics, Computer Vision and Graphics, Computer Science.
-* I hope to see your talks at the conference in a few years.
-
 ## Projects
 
 See project phases in the presentation 
@@ -40,8 +30,20 @@ Recommended approximate timeline for the project:
 * First progress meeting for projects
 * Have notes ready in project log + some preliminary results to show
 * See [project guidelines](./Projects.html#progress-meetings)
+* Use rest of the class for collaborating within groups
 
 Second progress meeting Friday next week
+
+
+## Student Research Conference
+
+* [https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
+* Next Wednesday April 15, 2026 (no classes).
+* Students present research results, often bachelor's or master's theses.
+* Some talks by students from Data Science.
+* Go check out some lectures, inspiration for finding a topic for your bachelor's thesis.
+* Relevant sections: Applied Mathematics, Computer Vision and Graphics, Computer Science.
+* I hope to see your talks at the conference in a few years.
 
 
 ## Homework
