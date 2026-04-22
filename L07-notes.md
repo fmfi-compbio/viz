@@ -32,7 +32,7 @@ no new homework or quiz, use the time for project work
 Week of April 22:
 Wednesday lecture: Text data, preattentive attributes, gestalt, illusions
 Friday tutorial: progress meeting 3
-homework on quiz back on normal schedule
+homework and quiz back on normal schedule
 
 Week of April 29:
 Wednesday lecture: Project phases, presentation of results, cognitive bias, interactive visualization 
