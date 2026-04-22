@@ -1,41 +1,49 @@
 ---
-title: Poznámky 22.4.2025
+title: Notes April 22, 2026
 ---
 
-Zopakujme si harmonogram na zvyšok semestra:
+## Important: changes in out time plan due to classes cancelled on May 8
 
-Týždeň 28.4-4.5.
+```
+Week of April 22:
+Wednesday lecture: Text data, preattentive attributes, gestalt, illusions
+Friday tutorial: progress meeting 3
+homework on quiz back on normal schedule
 
-* Cvičenia: projektové stretnutie 4
-* Prednáška: Fázy projektu, prezentácia výsledkov, kognitívne skreslenie
-* V stredu termín dvoch úloha kvizov
+Week of April 29:
+Wednesday lecture: Project phases, presentation of results, cognitive bias, interactive visualization 
+Friday: holiday, no tutorial
 
-Týždeň 5.-11.5.
+Week of May 6:
+Wednesday lecture: Infographics, interactive visualization, other visualization systems, specialized charts
+Friday: classes cancelled, no tutorial
 
-* Cvičenia: projektové stretnutie 5
-* Prednáška: Infografika, interaktivita, iné systémy vizualizácie, špecializované grafy
+Week of May 13:
+Wednesday: no lecture
+Friday tutorial: project meeting 4
 
-Týždeň 12.-18.5.
+Week of May 20:
+Project presentations on both Wednesday and Friday lectures/tutorials
+Friday May 22, 22:00 project submission deadline
 
-* Prezentácie projektov počas cvičení, po cvičeniach, počas prednášky
+Final test: probably in the first week of June, more next week
+Oral exams: in June
+```
 
-Pondelok 19.5. 22:00 odovzdanie projektov
+## Student Research Conference
 
-* Koncom týždňa aj ústne skúšky
-* Riadny termín testu pravdepodobne v týždni 26-30.5.
-* Máte už nejaké termíny z iných predmetov?
+Students and alumni of Data Science program were (again) successful at the [Student Research Conference](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/):
 
-Na budúcej prednáške bližšie informácie ku skúškam.
 
-## Študentská vedecká konferencia
+* Marek Šugár: Segment focused portfolio optimization based on machine learning predictions,
+laureate in section Applied Mathematics
+* Lukáš Gáborik, Jozef Rajník: Constructing flows from flow-pairs, 1st-3rd in section Graph Theory and Algebra
+* Valter Cingel: Uniformné systémy najkratších ciest v grafoch s veľkou grupou automorfizmov, laureate in section Graph Theory and Algebra
+* Lucia Ganajová, Marek Šuppa: An English Joke, a Spanish Punchline, and a Slovak Dataset Walk Into a Paper: An Experiment in Pushing the Boundaries of Modern Large Laughing Models,
+2nd place in Section Computer Science
+* Paulína Jaremčuková: Complexity of trained neural networks' decision boundaries, and its relationship with the adversarial robustness, 3nd place in Section Computer Science
+* Tuan Dávid Nguyen Van: Evaluation Framework for Resource-Constrained Georeferencing Systems on Small Satellites, 1st place in section Computer Vission and Graphics
+* Jana Poľašková, Iveta Bečková, Štefan Pócoš: When Neural Networks Fails: An Analysis of Adversarial Examples in Image Classification, 2nd place in section Computer Vission and Graphics
+* Timotej Šimkovič: Štatistická analýza svetelných kriviek vesmírneho odpadu, laureate in section Computer Vission and Graphics
 
-Študenti a absolventi DAV dosiahli na ŠVK veľa úspechov:
-
-* Zuzana Kováčová: Specificity of the Methodology for Detecting Anomalies in Athletes’ Biological Passports Used in Anti-Doping Testing, 2. miesto v sekcii Matematika
-* Andrej Špitalský: Effects of Diffusion on Territory Formation in Wolf Populations. laureát, Cena prof. Mariána Neamtu v sekcii Matematika
-* Lukáš Gáborik: Flow triangulations of cubic graphs, laureát  v sekcii Matematika
-* Damian Harenčák: Decentralized privacy preserving federated learning for 3D scan processing, jeden z víťazov v sekcii Počítačová grafika a strojové učenie
-* Erik Božík: Slovak Speech Corpora for Open-Source Automatic Speech Recognition
-laureát v sekcii Počítačová grafika a strojové učenie
-
-Všetkým gratulujeme a dúfame, že budú inšpiráciou pre vás zúčastniť sa ŠVK v budúcnosti.
+Congratulations to all and we hope they will be an inspiration for you to participate in the Student Research Conference in the future.
