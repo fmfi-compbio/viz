@@ -45,15 +45,15 @@ Lecture 8 [presentation](./pdf/L08_Perception_colors.pdf) **·** [Annoucements](
 On Wednesday [Student Research Conference](https://zona.fmph.uniba.sk/studentska-vedecka-konferencia/)
 {% endif %}
 
-**Week 20.-26.4. Preatentívne príznaky, gestalt a ilúzie, vizualizácia textových dát**<br>{% if true %}
+**Week 20.-26.4. Visualization of text data, pre-attentive attributes, gestalt, illusions**<br>{% if true %}
 Lecture 9 [presentation](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Annoucements](./L09-notes.md)
 {% endif %}
 
-**Week 27.4-3.5. Prezentácia výsledkov, kognitívne skreslenie, infografika**<br>{% if false %}
-Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** [Annoucements](./L10-notes.md) **·** [skúška](./Exam.md)
+**Week 27.4-3.5. Prezentácia výsledkov, kognitívne skreslenie, interaktivita**<br>{% if false %}
+Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** [Annoucements](./L10-notes.md) **·** [Exam](./Exam.md)
 {% endif %}
 
-**Week 4.-10.5. Interaktivita, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
+**Week 4.-10.5. Infografika, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
 Lecture 11 [presentation](./pdf/L11a_Miscelaneous.pdf) **·** {% include notebook.html file='L11_Miscelaneous' %}
 {% endif %}
 
