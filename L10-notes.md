@@ -1,24 +1,28 @@
 ---
-title: Poznámky 29.4.2025
+title: Notes April 29, 2026
 ---
 
-## Prednášky a cvičenia zvyšok semestra
+## Classes for the rest of the semester
 
-* Prednášky ešte tento a budúci týždeň.
-* K týmto prednáškam budú aj kvízy.
-* Tento týždeň posledná DÚ.
-* Cvičenia budúci týždeň: posledné kontrolné stretnutia k projektom.
+* Lectures will continue this week and next week.
+* Quizzes will be published for these lectures.
+* This week is the last homework assignment.
+* This and next Friday: no classes.
+* Friday May 15: final project progress meetings.
+* May 20+22: project presentations on both Wednesday and Friday lectures/tutorials.
 
+## Projects
 
-## Projekty
+* Please review the [guidelines](./Projects.md) for presentations and project submissions.
+* Start planning and preparing your presentation and submitted materials.
+* This requires coordination within your group.
+* Project submissions due Friday May 22, 22:00
 
-* Pozrite si [pokyny](./Projects.md) k prezentáciam a odovzdávaniu projektov.
-* Začnite plánovať a pripravovať prezentáciu a odovzdávané materiály.
-* Toto vyžaduje koordináciu v rámci skupiny.
-* 13.-14.5. prezentácie projektov (prednáška aj cvičenia)
-  * Dnes dohodneme / vylosujeme rozpis
-  * Utorok 2x Migrácia, 2x Voľby, 1x Psy alebo Evolúcia
-  * Streda 2x Migrácia, 1x Voľby, 1x Psy alebo Evolúcia
-  * Po sebe nejdú dve rovnaké témy
-* Odovzdanie projektov pondelok 19.5. 22:00.
+## Presentations
+
+* Wednesday May 20 during lecture and shortly after it.
+* Friday May 22 during class.
+* We will determine the schedule next week.
+* If you cannot atted in one of these time slots, please fill in the form until next Tuesday 10pm: <https://forms.office.com/e/wLuLMYCRdk>
+
 

@@ -1,55 +1,54 @@
 ---
-title: Skúška
+title: Exam
 ---
 
-{% if true %}
+{% if false %}
 Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá predmetu](./Rules.html). 
 {% endif %}
 
-{% if false %}
+{% if true %}
 * TOC
 {:toc}
 
-## Ústna skúška
+## Oral exam
 
-* **Predbežné riadne termíny v AIS:**
-  * Piatok 23.5. 13:00 (miestnosť F2-T3)
-  * Pondelok 26.5. 9:00 a 13:00 (miestnosť F1-248 doobeda, I-H3 poobede)
-  * Utorok 27.5. 9:00 a 13:00 I-H3 (miestnosť I-H3)
-  * Každý poldeň má limit 10 študentov, celkové trvanie cca 2,5 hodiny, bude známy približný časový rozpis
-  * Zapíšte sa v AIS od stredy 30.4. 18:00
-  * Nejaké vážne konflikty?
-* Po príchode do počítačovej miestnosti si projekt vašej skupiny otvorte na školskom počítači (Windows alebo Linux), ubezpečte sa, že ho viete spustiť, spravte si kópiu, ktorú budete modifikovať. Vypnite AI asistentov.
-* Porozprávame sa o projekte, dostanete za úlohu niečo doňho dorobiť alebo zmeniť.
-* Môžete hľadať v prednáškach a cvičeniach, v online dokumentácii alebo v existujúcich diskusiách na internete, môžete si doniesť aj papierové materiály.
-* Zakázané je komunikovať s inými osobami a využívať nástroje umelej inteligencie, ako aj iný hardvér okrem školského počítača (ako zálohu pre prípad veľkých technických problémov však odporúčame priniesť si aj vlastný notebook).
-* Využité zdroje nechajte otvorené v prehliadači.
-* Môžeme sa spýtať aj niečo k vašim individuálnym či skupinovým úlohám.
-* Váha skúška je 15%, treba však získať aspoň polovicu, inak Fx. Na základe ústnej skúšky môžeme zmeniť aj vaše body z projektu/úloh, pokiaľ zistíme, že váš prínos k práci skupiny nebol dostatočný alebo že odovzdanej práci nerozumiete.
-* Opravné termíny budú neskôr, po dohode s tými, ktorých sa budú týkať. Budú najviac dva ďalšie termíny.
+* **Suggested dates - any conflicts?**
+  * Tuesday June 2 and Thursday June 4, morning and afternoon
+  * Each half-day has a limit of 10 students, total duration approximately 2.5 hours, the approximate schedule will be known
+  * Sign up in AIS from Thursday April 30 18:00
+  
+* Upon arrival in the computer room, open your group's project on the school computer (Windows or Linux), ensure you can run it, and make a copy that you will modify. Turn off AI assistants.
+* We will discuss your project, and you will be given a task to improve or change something in it.
+* You can search in lectures and tasks, in online documentation or existing discussions on the internet, you can also bring paper materials.
+* It is forbidden to communicate with other people and use artificial intelligence tools, as well as other hardware except the school computer (as a backup for the case of major technical problems, we recommend bringing your own laptop).
+* Used resources should remain open in the browser.
+* We may also ask you about your homeworks or group tasks.
+* The weight of the exam is 15%, but you must at least achieve half of the points, otherwise Fx. Based on the oral exam, we may also change your points from the project/tasks, if we find out that your contribution to the group work was not sufficient or that you do not understand the submitted work.
+* Remedial exams will be scheduled later, after discussion with those who need them. There will be at most two additional dates.
 
 
-## Záverečný test
+## Final test
 
-* Riadny termín piatok 30.5. 9:00. Nejaké vážne konflikty?
-  * Opravné termíny po dohode s tými, ktorých sa budú týkať. Budú najviac dva ďalšie termíny.
-* Prineste si perá/ceruzky a ISIC.
-* Nie je povolené: akékoľvek papiere, elektronické zariadenia, komunikácia s inými ľuďmi okrem vyučujúcich
-* Píšte do priestoru vyhradeného pre každú otázku, v prípade potreby si vyžiadajte ďalší papier
-* Píšte čitateľne, nečitateľné odpovede budú hodnotené 0 bodmi
-* Trvanie testu 60-90 minút (bude oznámené na začiatku testu)
-* Otázky budú v slovenčine, pre prehľadnosť budú uvedené anglické výrazy
-* Na úspešné absolvovanie kurzu musíte získať aspoň 50% bodov z testu
-* Nižšie je uvedený zoznam pojmov, ktoré by ste mali poznať (pre každý pojem definícia, ak bola uvedená, intuitívny význam, výhody/nevýhody atď.)
-* Taktiež je tu zoznam príkazov z knižníc pandas/matplotlib/seaborn a ich parametre, ktoré by ste mali poznať
-* Ak použijeme aj iné príkazy z týchto knižníc, budú vysvetlené v texte otázky
-* Typy otázok:
-  * jednoduché otázky na vedomosti/pochopenie (podobné niektorým kvízovým otázkam)
-  * čo by tento kód urobil s týmto vstupom?
-  * ako doplniť kód tak, aby robil xyz? (napríklad pridanie jedného príkazu, nie písanie celého dlhšieho kódu)
-  * diskutovať o grafe s ohľadom na niektoré aspekty preberané v kurze
-  * navrhnúť, ako by ste znázornili určitý typ údajov
-  * prípadne aj iné
+* The only regular test date **Friday June 5, 9:30**. Some conflicts with other exams?
+  * Remedial exams will be scheduled later, after discussion with those who need them. There will be at most two additional dates.
+* Bring your pens/pencils and ISIC.
+* It is not allowed: any papers, electronic devices, communication with other people except the instructors
+* Write in the space reserved for each question, request additional paper if needed
+* Write clearly, illegible answers will be graded with 0 points
+* Test duration 60-90 minutes (will be announced at the beginning of the test)
+* Questions will be in Slovak, some terms will be given also in English for clarity
+  * You can request questions in English before may 22 10pm using this form: <https://forms.office.com/e/SV3A4xth2E>
+  * You can write your answers in Slovak or English
+* To pass this course, you must score at least 50% of the points from the test
+* The list below contains the terms you should know (for each term: definition, if given, intuitive meaning, advantages/disadvantages etc.)
+* There is also a list of commands from the pandas/matplotlib/seaborn libraries and their parameters that you should know
+* If we use other commands from these libraries, they will be explained in the question text
+* Examples of question types:
+  * simple questions on knowledge/comprehension (similar to some quiz questions)
+  * what would this code output for this input? 
+  * how to complete the code so that it does xyz? (for example adding a few commands, not writing a whole longer code)
+  * discuss the plot with regard to some aspects covered in the course
+  * propose how you would visualize a certain type of data
 
 ## Test syllabus
 
@@ -98,7 +97,7 @@ Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá pr
 * For each statistic: definition, intuive meaning, properties
 * Measures of central tendency: mean, median, mode
 * Quantiles, percentiles and quartiles
-* Measures of variability minimum, maximum, interquartile range, variance and standard deviation
+* Measures of variability: minimum, maximum, interquartile range, variance and standard deviation
 * Tukey's definition of outliers using IQR
 * Boxplot
 * Summary statistics under linear transformation of the variable
@@ -109,14 +108,10 @@ Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá pr
   * `series.mean()`, `series.median()`, `series.mode()`
   * `series.quantile([p0,...,pn])`, linear interpolation
   * `series.min()`, `series.max()`, `series.std()`
-  * `sns.boxplot(data, x, y)`
-  * `df.describe()`
-  * `df.corr()`
-  * `sns.pairplot(df)`
-
+  
 ### L05 Pandas 2
 
-* `pd.merge(df1, df2, on)`
+* `pd.merge(df1, df2, on)` (with default inner join)
 * split-apply-combine strategy, apply as aggregation, transformation, filtering
 * `df.groupby(column)[column_selection].aggregation_function()` with aggregation functions `size()`, `count()`, `sum()`, `mean()`, `median()`, `min()`, `max()`, `describe()`
 * `df.groupby(column)[column_selection].transform(function)`
@@ -125,7 +120,7 @@ Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá pr
 
 ### L06 Maps, graphs, time series
 
-* Map projections: conformal / equal-area / orthographic
+* Map projections: conformal / equal-area
 * Thematic maps
 * Data as points or lines in a map
 * Isarithmic maps / isoline maps / heatmaps
@@ -135,8 +130,7 @@ Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá pr
 
 ### L07 More statistics
 
-* Histograms (which properties of data thet show, choice of bins, comparing several distributions)
-* `sns.histplot(data, x, bins, hue, multiple, common_norm)` (for `multiple` option `"stack"`)
+* Histograms (which properties of data they show, choice of bins, comparing several distributions)
 * Probability density function (and its relation to histograms)
 * Kernel density estimation (how it is constructed, how it is used, bandwidth)
 * Violin plot
@@ -177,12 +171,12 @@ Pokyny ku skúške upresníme neskôr. Základné informácie viď [pravidlá pr
 * Cognitive biases, patternicity bias, storytelling bias, conformation bias
 * Aspects of visualization: basic setup, data transformations and other settings, focus and explatation
 * Table vs plot
-* Infographics vs data visualization
+* Interactivity, which aspects of a plot can be interactive
+* Dashboard (what it is)
 
 ### L11 Interactivity, other types of plots
 
-* Interactivity, which aspects of a plot can be interactive
-* Dashboard (what it is)
+* Infographics vs data visualization
 * Other types of graphs: waterfall chart, funnel chart, Gannt chart, candlestick chart
 
 {% endif %}

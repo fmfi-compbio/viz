@@ -49,8 +49,8 @@ On Wednesday [Student Research Conference](https://zona.fmph.uniba.sk/studentska
 Lecture 9 [presentation](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Annoucements](./L09-notes.md)
 {% endif %}
 
-**Week 27.4-3.5. Prezentácia výsledkov, kognitívne skreslenie, interaktivita**<br>{% if false %}
-Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** [Annoucements](./L10-notes.md) **·** [Exam](./Exam.md)
+**Week 27.4-3.5. Presentation of results, cognitive biases, interactivity**<br>{% if true %}
+Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** {% include notebook.html file='L10_Dash' %} **·** [Annoucements](./L10-notes.md) **·** [Exam](./Exam.md)
 {% endif %}
 
 **Week 4.-10.5. Infografika, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
