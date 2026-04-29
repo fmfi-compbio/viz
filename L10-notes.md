@@ -6,7 +6,7 @@ title: Notes April 29, 2026
 
 * Lectures will continue this week and next week.
 * Quizzes will be published for these lectures.
-* This week is the last homework assignment.
+* This week no homework due to technical difficulties, last homework possibly next week.
 * This and next Friday: no classes.
 * Friday May 15: final project progress meetings.
 * May 20+22: project presentations on both Wednesday and Friday lectures/tutorials.
