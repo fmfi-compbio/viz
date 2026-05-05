@@ -53,10 +53,10 @@ Lecture 9 [presentation](./pdf/L09_Preattentive_and_Gestalt.pdf) **·** [Annouce
 Lecture 10 [presentation](./pdf/L10_Presentation.pdf) **·** {% include notebook.html file='L10b_Dash' %} **·** [Annoucements](./L10-notes.md) **·** [Exam](./Exam.md)
 {% endif %}
 
-**Week 4.-10.5. Infografika, iné systémy vizualizácie, špecializované grafy**<br>{% if false %}
-Lecture 11 [presentation](./pdf/L11a_Miscelaneous.pdf) **·** {% include notebook.html file='L11_Miscelaneous' %}
+**Week 4.-10.5. Infographics, other visualization systems, specialized graphs**<br>{% if true %}
+Lecture 11 [presentation](./pdf/L11a_Miscelaneous.pdf) **·** {% include notebook.html file='R_example' %}
 {% endif %}
 
-**Week 11.-17.5. Rezerva**
+**Week 11.-17.5. No lecture**
 
-**Week 18.-24.5. Prezentácie projektov**
+**Week 18.-24.5. Project presentations**
